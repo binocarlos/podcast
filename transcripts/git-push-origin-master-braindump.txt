@@ -1,0 +1,267 @@
+Kai Davenport (00:02.04)
+Hi folks, so first video. It's mad, the human mind, isn't it? Like, no. If I make a video, everyone's gonna watch and then.
+
+Kai Davenport (00:15.97)
+judge me and I'm gonna fail because I'm a piece of shit. Classic imposter syndrome narrative. Don't think I actually believe that. As in I'm just like, yeah, I've got shit to say. I'm probably wrong. I struggle to put my underpants on the right direction round, so I clearly don't think that much of myself. At the same time, I like talking, so.
+
+Kai Davenport (00:42.894)
+clearly like to indulge myself explaining things as well, any opportunity. So there's been a bit of a battle in my head, but you like it, just tell people how technology works. And like, just talk about anything if I'm honest. I clearly like the sound of my own voice. Is that narcissism, is it ego? Fuck knows. But I enjoy it. But then there's this part which is like, who gives a shit, like, who's gonna listen? Blah.
+
+I I'm just discussing imposter syndrome, which I have a podcast planned. So that's going to be like my main first podcast video. But this one is an interesting one because my job is to narrate a project, We. We is a group of people. I won't go too much into it, but collectively we're going to call ourselves Git Push Origin Master. Because it's kind of like an interplay between technology and politics.
+
+So those of you that might hear this and go, you shouldn't call it master, you're correct. But it is on purpose. And so I won't say any more. yeah, so first actual podcast is gonna be about imposter syndrome. Because I know a thing or two about that. So I'm just gonna tell you a story, my experience of that. But this one is like, Adam, my colleague, sounds a bit weird saying that if you're kind of doing an artistic project.
+
+that's not a business, he's a colleague in businesses that we run as well. Anyway, fuck it, Adam, my guy, he says, we need to get the thread of the stories down for the various parts of this Git Push Origin Master project. So this video is me just fucking going off as in brain dump time. I might call this video brain dump, actually. That's the name of this video. Okay, so.
+
+got a list here that I'm going to read out. The point here is to get the transcription because the service I'm using, Riverside, I don't know if it's good but they sold me on the like, hey it's really easy, click buttons, pay us a little bit of money, automatic podcast recording system engaged. But I've seen it do transcripts so the point here is Adam is great at AI workflows, this is kind of part of the whole project but I won't get into that now. Spoiler alert.
+
+Kai Davenport (03:03.202)
+But the AI workflow we have for this is gonna be like transcripts of human voice, right? It's like humans are very comfortable, just, well I am anyway, just talking. Blah blah blah blah blah blah blah blah blah blah. It's easy, just spit words out there. And the brain clearly conceives the thoughts, I wanna say this, here's a concept, boom, words. I send the words out. And for me, every time in the past it's been like, fuck, these productivity apps, to -do lists, click mount, it's just like a.
+
+just clicking on the buttons and I'm like cool I'm going to do this and like write it down and by the time I've written it down I can't be bothered to do it anymore but then I know that I'm very lazy so anyway the point I'm making is before large language models and AI exists then we had to click mice's and make to -do lists and I call this the Photoshop problem there's a thousand buttons to do anything who can be fucked right so
+
+The new workflow is just talk. This is what I'm doing right now. There's a transcription that goes through the other side, which is the podcast video recording thing. So I'm just talking into this and then it's going to turn it into text and then I am going to. I was about to say Adam will, but then I've just been putting all of the stuff on his shoulders. So I'm just going to like not be lazy. I'm going to go and speak to Claude or...
+
+whichever the AI is best, but Claude right now seems to be the case. When are we? August 2024. Hey Claude, summarize this for me, right? So it's like, hey, this is just a ramblings of a nobed, but turn it into like what the essence of what he was saying is. And then we're gonna stick that essence as like a flag. I there's maybe eight or nine projects underneath the umbrella project, which is get push origin master.
+
+So yeah, we're gonna basically get like little snippets of text, maybe a couple of paragraphs. This is what this is, this is what it's gonna do. And so this video right here is me brain dumping the shit out of all of that stuff. anyway, ramble over, here we go. So git push origin must, what is that? It's essentially like a timeline of humanity from the past till now. It's not like an exhaustive timeline. That's the insight.
+
+Kai Davenport (05:16.046)
+Botanica or Wikipedia but this is just like hey humans are a species that came from a DNA evolution path right so what I'm calling that is left of now as in before now now being 2024 and so like there's some significant events in the history of humans we discovered fire farming like
+
+Andrew Maher's History of the World. He's a brilliant historian. He just goes like, imagine 10 ,000 years ago you're hungry and you decide not to eat the seed but plant the seed. significant moment in human development. know, stock markets, whatever. Like, I'm just making this up now. But the point of Left Of Now, Before Now, is to chart what you might say major updates to humans code base.
+
+which is kind of where Git Push Origin Master is having a play. I'll get into that for non -technical people later, basically it's like throughout history, society has updated its code, and here we are. And so then we have now. Before now is like an anthropology, I think that's the word.
+
+Kai Davenport (06:34.466)
+like an anthropological history journey, right? And the concept of Git Push Origin Master for non -technical people, by the way, is a Git repository is a place where you add code, and a commit is like a chunk of code that you add, and it's very much a timeline of updates to the code. And so the model here is like, the world is a simulation, number theory, this whole simulation idea. Let's not go down that rabbit hole, but like here's the model. We are just code and...
+
+We're updating our code as we go through evolution. There's two kind of parts to that. There's like the lower level chemical Darwinian evolution that humans go through in terms of like, well, Darwinian evolution, sex and DNA combinations in terms of physical attributes. But then you've also got like how we run our society.
+
+which is also, I'd say, updates to our collective code versus updates to our individual code. One's much faster than the other, like it takes a while to change DNA over the period of time, but societal changes can happen very fast. Blah. There's the model. And so for non -technical people, git push origin master is like a command that every engineer will have typed in their career. And then you've got a little layered thing, because master has, in the last few years, become main. Git push origin main is what you should say.
+
+Because master slave, it's a database phraseology, but in the last sort of, I'd like to think 10 years, five years, like, hey, let's not remind people of slavery. But actually in some ways, and this is the leap, is, I know it's just like, lay it all out there up front and then we can get into the detail. But the leap is like actually by keeping master there, get push origin master, okay, I'm gonna say the thing you shouldn't say. It is a nod towards.
+
+the social economic nature of humans fucking over other humans in the pursuit of profit rather than the pursuit of happiness. So how are we going to get to the intersection of technology and politics? Because who we are as people is definitely people who do technology who have also been fucking around with politics a little bit, like on the edge. But that's the whole nature of the whole thing. What happens if you take technology and you stick it in politics, what goes on?
+
+Kai Davenport (08:51.914)
+So git push origin master is a small nod towards like, hey, at the highest level it's like, nobody knows what it means, it's just a hipster name that's got a swear word in it. like git, haha, it's a name. Middle layer. Anybody who is a software engineer will go, git push origin master, I've typed that lots of times because I always push to my git repos when I deploy code. but it says master, that's a bit weird, it should say main, which goes to the lower level, which is a kind of...
+
+historical social economic commentary on, like I say, the pursuit of profit in the form of fucking people over. And kind of the whole thing we're talking about is, hey guys, let's stop fucking people over, shall we? Anyway, that's Git Push, Origin Master. Left of now is like the Git commits that led us till now, which is like I say, like history of humans, fire, politics, law, et cetera. We get to now.
+
+Now we've got these two projects called The Gallery of Curiosities and No Money for Old Men. So these are two blogs. The Gallery of Curiosities is not a word -based blog. It's very much just a sequence of Instagram, Twitter, media links, memes, like things that appear in the current consciousness of humanity. And the blog No Money for Old Men is a
+
+sarcastic commentary on the current situation in the world. yeah, it's awesome. Jack is doing some amazing work there. He's such a lens to current events. And so the idea with Git Push Origin Master, it's like, you could go back look at the major code updates to now. Now isn't really a code update. It's just more like, this is what currently we are. I say in the form of kind of two blogs.
+
+Why are they two different blogs? I think because Gallery of Curiosities feels like an old Victorian fair vibe. No Money for Old Men is like an opinionated politics blog. Yeah, the two projects live in their own right. But that's very much what we're calling now. And then you've got what's next, right? Because this is the concept here. Hey, we are, as a species, this repository where we push updates. Here is where we are now. Where do we go next? Now, there's generally a theme.
+
+Kai Davenport (11:14.882)
+Let's say three things here are very important, right? I'm not gonna say nuclear fusion, but that's what I have said. Let's just say infinite renewable clean energy. Just say that, right? So whether it's solar or wind or nuclear fusion or nuclear fission, that's safe. Let's not open that Pandora's box, but like as a species, I have a lot of faith that we can sort our shit out and stop burning carbon in the air and then use.
+
+the solution which is like infinite is a difficult word to use but abundant, fuck me I hate that word too, plentiful renewable clean energy then we can start to solve a lot of problems like the shit show we've created already in terms of climate change and also going forwards all of the AI that we might need to use in order to solve a lot of our other problems so let's just say energy is a baseline like
+
+renewable energy that's clean and every time we do a thing with energy we're not making it worse because that's the current situation right and so that's a lot of the hope out of the window because hey we can just take the carbon out of the air not without adding more carbon than you've taken out fuck man there's no point one of the darkest weeks of my life my god I was so depressed about this so I just like looking around like Tesco's and plastic and
+
+Society and stuff and movement and all of it. It's just like fuck this is energy everything here is like using energy to get the thing we want and all of that energy comes out of burning oil at the ground and like that's gonna run out. It wasn't quite a climate change thing now it might be like yeah that's we're gonna die before it runs out both are bad like this is not gonna end well and so for a week I was just like it's pointless everything we're looking at is gonna end in Mad Max. There's no point.
+
+And one day I just looked up at the sun and went, yeah, this is, where did all the oil even come from? Where was the energy for the oil to form into oil anyway? So all of a it's like, nuclear fusion is there, we just need to learn how to do it and we'll be fine. like, close the box on, let's just hold on to the optimism that we can solve renewable clean energy, because otherwise we are fucked. And I like to be an optimist.
+
+Kai Davenport (13:35.788)
+Second one, AI. So like, fuck man, it's getting so good now. And there's a whole thread here. I won't go into this rabbit hole, but I'd definitely do a podcast on this. Like, what if it actually is that humans are transformer models? Rather than a narrative I've been saying for a while, which is like, yeah, large language models are just, the next word machines, because they're statistical distribution models. Kind of true.
+
+As in like, the most likely word with a bit of random thrown in to come next is this, right? So it's like, they're not reasoning, they're not clever, et cetera, et Until you kind of get into this weird world of like, the activation function space, like the weights and the biases that come from the training data that choose to activate or not, which nobody knows how that works. Like as in, we've gone from human minds doing logic to like,
+
+a black box where it just does it or it doesn't do it. And no human's allowed to look inside, because you can't keep track of hundreds of billions of hyperparameters. And so anyway, without going too deep into that, like I say, that's a whole other topic, what I've realised is that, well, an interesting thought experiment I've had is like, if...
+
+actually humans are just the same rough design as transformer models, right? So generative pre -trained transformer model, chat GPT, this is what these large language models are. The idea that it's just text based, throw that away, like, hey, I'm looking at a video, we'll just turn the video into a sequence of images and each image is like a token and large language models work in the same way. It's like a meaning chunk, not necessarily a word, not necessarily a syllable, but it's like, take the...
+
+continuous stream of input and chunk it up a bit, put the chunk in, guess what would come out, what might come out in terms of the human mind is a memory and it gets stored, which you might rephrase as real time fine tuning. Blah, I'm not gonna keep going down that rabbit hole, that's for another time, but let's just say AI is really fucking close to being AGI and then you have an intelligence explosion, it starts to train itself, it then starts to help us get renewable energy.
+
+Kai Davenport (15:51.384)
+Happy days, right? Third part of this, like what comes next, pillar, trio of pillars, is robots. Because renewable energy plus AI and all you now need is the muscle power. Boom! And like fine, scaling. How long does it take to scale? It might take decades, whatever. But the point really here is like everything's about to get really weird. Like accountants, lawyers, factory workers, drivers.
+
+everything this is why my head although I'm sorry to say this out loud but like some people who run multi -billion dollar companies are slightly weird without insulting anyone I hope. Tesla is a fucking immense company right now because it's the it's the company that has all the training data for driving the cars whatever this is like not financial advice even I have no idea what I'm talking about slash
+
+the next phase of technology improvements is gonna be very much not what we've already, we won't quite understand it, is what I'm trying to say. Because what does it look like? The moment Tesla has self -driving software that is like the trained AI model on all the data it has, like all of the car driving jobs go away. Uber looks like a weird thing. Like as in Uber is, who knows, whatever. There's plenty of videos out there for like, what's the future of technology and how's,
+
+AI and robots gonna affect the economy, like here, not above my pay grade. At the same time I'm chatting about how I know that, so fuck it. Like, in, this is a thought experiment, I suppose, about what could happen. There you go. Which is like, it's an important caveat. The whole of Get Pushed Origin Master is artwork. Just like, hey, let's tell a story. And there is literally, the whole point of it is to end up with a story, so that's cool. Right.
+
+Kai Davenport (17:44.504)
+Don't run too much, Kai, let's try to keep on the thread. So, really, here's the point.
+
+Kai Davenport (17:54.348)
+What happens when... Raoul Pal, awesome guy, knows his stuff. Infinite Humans... Tom Billou... Billou... Sorry Tom, I fucked your name. Awesome guy, knows his stuff. Like, incredible amount of learning on these guys' Infinite Humans is Raoul Pal's. Tomorrow will be more digital than today is Tom Billou's. And you just kind of like get this sense like...
+
+The moment that large -scale AI -driven robotics running on renewable energy hits, like humans have a difficult, there's a difficult place for us. Like what does money even mean anymore? It changes, right? Now, I think that's an awesome place to be, because everyone has the best education, everyone has the best healthcare, everyone has essentially a universally excellent income, because scarcity isn't a thing anymore.
+
+Scarcity is the big defining psychology in our current economic system, I think. I'm going to paint a picture of what the world could be if we get robust politics, essentially is the thread here, right? So if we sort our shit out, all of this really cool science could be like, whoa, we did a great job. We can just essentially enjoy ourselves, work out a profit motive.
+
+without taking the piss, meaning that if you want to do well, you can have the nicer house, but it's not at the expense of this person's grandmother's cancer operation. we've really fucked this up, How can... Anyway, try not to have too much of a political opinion in this. we can unfuck this, and we can have plenty, which is...
+
+Renewable energy, AI and robots, right? But who owns that? And not saying people can't own things and make a profit. Like, that's communism, right? I grew up in the 80s and I remember just seeing Rambo going, die you commie bastards. So in my head, like, communism is the enemy. At the same time, one of my favourite memes is this young girl. And she looks up at her dad and she's like, daddy, are we the bad guys?
+
+Kai Davenport (20:20.172)
+That's fucking late stage capitalism right now, like, we're good, we're the good people. It's like, really though, look at how you treat your people. there's literally, don't even let me start. I'm not sure, I'm not sure I need to say that. I'm fairly sure everyone fucking knows, like, homeless, treating, like, the health system, like, what the fuck? People are in pain, like, is it actual physical and emotional stress? And this system basically is, yes, sorry, mate, you should have done better. It's like, well, people really try hard and yet.
+
+you being the system, fuck them over every time. We know this, this is not a political rant, but I think it's safe to say something about it right now, circa August 2024, it's not working. And so this is not robust politics, and we've not even begun the arrival of AI yet. So in my head, when we're talking about this Git push origin master timeline, like now is really fucking important. Now, there's this concept in a Git repository and in blockchains called a fork.
+
+and a fork is where you either go left or right with the group of people you decide to go with. So what do I mean? Ethereum Classic is a great example. the point of Ethereum is code is law, right? The whole, you know, we're getting into crypto and stuff, it's not shilling for cryptocurrencies, it's just using a really good example of what a fork is. So in Ethereum, which is a cryptocurrency, distributed money, but you can also do software, you can run smart contracts with changes.
+
+world. Let's just leave it there. We'll talk about that another thread.
+
+Kai Davenport (21:57.23)
+I can't remember when this was, like 2017, 18 something. It was a big fuck up. Like somebody did a bug in a smart contract and it... I'd have to read up. should have read this up, but then I'm on a ramble. So it moved a bunch of money or locked a bunch of money, like hundreds of millions, if I remember right. And it's like irretrievable, right? And so I think it was the Ethereum Foundation decided, shit, that's gonna not go very well. That's not gonna look very good for us.
+
+We should undo that. And everyone's like, what the fuck? Like the whole point of Ethereum or blockchains generally is like, it's immutable. Like just arbitrarily deciding you could just go back in time is the same as having a central bank committee that just arbitrarily decides what the interest rate and what the quantity of easing is going to be. sorry, we should call it liquidity now, shouldn't we? Because, yeah, shit, I don't, yeah, that's another thread.
+
+That's the Emperor's new clothes, by the way, because fuck me, that's a thing. The most undemocratic thing I've seen in my life. We're all focusing on who to vote for for the politics, and yet these motherfuckers walk in a room and just make up a number. Nobody even knows. Anyway, that's another rant.
+
+Kai Davenport (23:12.622)
+What was the thread? I forgot, didn't I? Forks, Ethereum classic. So, here's the point about a fork, right? So, the people are like, is law, you cannot just make the number up versus the Ethereum foundation is like, no, but we kind of need to this time because it's a real fuck up. We have a real disagreement, right? So, who's right, who's wrong? Well, the real point here is that you can't judge that. You can't say objectively here is the right or wrong. All you can do is say, I'm going to go with these people or I'm going to go with those people, right?
+
+So, this is a fork. And Ethereum Classic is the timeline down which code is law. You can't revert the fuck up. And Ethereum, the main asset, is the one where they did revert the fuck up, but everyone went, you're the Ethereum foundation, therefore we're gonna follow you. And it's politics, right? It's just like, who do I think is right for whatever motivations I think. So that's.
+
+That's a system forking. Git repositories can also fork. It's like code updates. Somebody goes, I'm going to do this, but I'm going to go my own way. So from this point in time, we're the same. But the next commit, I'm going to go this way, and you're going to go this way. So you can see where I'm heading, like humanity is at this place. It needs to decide, are we going to go left and say, we're going to keep the politics the same, but we're about to have infinite energy, robots, and AI.
+
+What's gonna happen? Like one company's gonna own everything. And I think we all know who it's gonna be. I mean, fair play. In terms, you know, it isn't, what I think a lot of people get wrong is like, fuck the rich. It's like, yeah, I get it, man, trust me. I can definitely tell you about working class roots and how it's fucked, how fucking oppressive. I can't, don't let me start on that.
+
+it's fucked right and every part of me wants to call you a bunch of cunts like you rich cunts fuck you and you don't get it etc but that's not the problem people are people who are winning in this game are doing fucking amazing job at playing the game they're not murdering people or breaking the law even you know there's a different name for people who break the law and it's not these people so to be like fuck you you're idiots it's really a waste of energy
+
+Kai Davenport (25:34.27)
+the energy should be spent on like how do we make it illegal and then how do we enforce that because there's a lot that seems to be still allowed like tax havens and there's definitely a lackluster approach to enforcement when it comes to certain groups of society so I'm gonna wrap this up because I need a pee and it's a good reason I think to stop talking but this here is a quick rant about what is Git Push Origin Master and
+
+I'm not going to talk about all the rest of the project, I'm going to record another video to get the transcript for that. I think I've set the scene. But really the core thing is to present this timeline. How did we get to here? What is here? And then lay out the choice of two options that we have. And there's some really cool as fuck projects that are on both sides of that fork. Yeah, first video, woo hoo!
+
+Kai Davenport (00:02.072)
+So this is another little video on my brain dump of all of Git Push Origin Master stuff. So I think I gave a rough overview before of the idea of a fork and this idea of Git Push Origin Master being a timeline of updates to humans code base and then we get to now and we've got to decide which fork we go down.
+
+And yeah, I was mentioning like down... We've basically got the choice of like sorting our shit out or not is the fork. And then like the idea is like, well what happens if we don't? The story and I'm use that word because the whole thing here is art. So I'm very like, fuck man, I've thought about this a lot like...
+
+Hey, I know what the future's gonna be. I know how to solve problems. It's like, Jesus Christ, this is the problem is voting for people that think they know how to solve everything, which is otherwise known like voting for personalities in politics is part of the problem. So very conscious of not being like, hey, here's all the solutions. I have no idea what I'm doing or how to put my pants on the right way around. So don't trust what I say, but don't trust anybody, any human at least.
+
+because they've all got motives it turns out and that's okay it's not like they're bad people but so caveat over this isn't the artwork if you're like that's wrong excellent join in we will be creating feedback mechanisms the whole point here is to make it a collaborative exercise so you know disagreement is excellent constructive debate really fucking cool salty trolls there we'll just use AI to filter them
+
+Anyway, He's probably going to give a shit anyway. This is another thing, completely pointless what you do, but it's going to be really sad if you don't do it. So, you know, get over yourself, make a leap. That's what I've been saying for only 15 years. And yay, finally making videos. So there we go. Alright, so, Gate Push Origin Master is art.
+
+Kai Davenport (02:24.408)
+Therefore, when it tries to predict the future, it's just telling a story. And there is a story, as in we are literally writing a story to capture this whole thing. Talk about that later. what happens in the future where we spoke about in the video before, the timeline of plenty, right? So plenty happens on good or the bad timeline. Plenty is renewable, clean energy, AI and robots. And then when you have those things,
+
+work becomes unnecessary for humans to do. We're ignoring scale, like how long does it take to get all the robots out there to do all the jobs that humans don't currently do? It's gonna take a while. course humans are gonna want humans to do some jobs, of course. It's actually the whole point of this, like the sense of humans having qualities that AI and automation don't have is, in my head, the optimistic future that we can create for ourselves. Because we do have values.
+
+that no matter how clever the machines get, they're not us. My mum said this the best way the other day actually. I was telling her the story which I'll get to but the theme here is just like humans have innate value because they can be creative. More to the point, AI can be creative. It can make some incredibly impressive stuff but where does the original thread of the creativity come from?
+
+And also, how does the AI know that it's good? And it gets in a weird place where the AI feeds off itself and now maybe this is nothing there anymore because actually it turned out that Rick Rubin's role is tap into the vibe, right? It's like creativity comes from the universe. It's not, did that. It's more like, I managed to find something cool and show everyone else how cool it is. That's the creative process and humans have a role there.
+
+So let's look at the bad path of plenty, right? What's plenty is infinite, I shouldn't use that word, renewable clean energy and AI and robots. But nobody has a job now. Accountants and lawyers and bricklayers and factory workers. mean Amazon right now, 2024, employing more robots than people. So it's not.
+
+Kai Davenport (04:53.518)
+This is happening so fast and we've not even got the AGI God knows. If I'd be surprised if at the end of 2026 we haven't got it, shit, AGI is a thing now. And then intelligence explosion hits and the hockey stick takes off. It's very close to happening. so into that world, nobody's got a job. Now, the bad part of that is like we're fucked because one entity owns all of it.
+
+because late stage capitalism, which I would argue is therefore, this isn't a technology problem anymore, it's a politics problem because is that what we want? Like,
+
+Kai Davenport (05:38.892)
+We can kind of have what we want here. That's the point. If enough of us agree, we can do what the fuck we want.
+
+Kai Davenport (05:50.486)
+At the moment, none of us are agreeing on anything.
+
+So it's very easy to be like, shit, it's fucked. Because everyone's arguing and nobody can agree and we're all getting fucked over. We being the majority of normal people who don't own a newspaper. So the bad part is not great. What's the good part look like? If we sort our politics out, we can get to a place where it's not just where one company owns all the robots and we've got robust democracy, which looks nothing like now because I don't think now is robust at all.
+
+actually was invented before electricity and since then we've had electricity and the internet and AI and so like I think we can do a much better job of like stop voting for people and start organizing ourselves better full stop. We need to do that. We're fucked if we don't do that. But I think we will do that and like the whole point of Git Push Origin Master is to tell the story of what happened when we don't do that.
+
+and then to give us another chance to then do that.
+
+Kai Davenport (07:00.718)
+Maybe I'll just tell the story real quick. So this part here is the story of Get Pushed Origin Master. So I won't tell it in full because it's not been fleshed out yet, but I'll just do a rough bare bones of the storyline, right? basically it's 2024 and it's now, it's the world as we know it now with all the shit going on and we follow the bad timeline. So the world, the climate change kicked in and the company that owns all the robots starts to become mega powerful and they don't give a fuck about tax and...
+
+there's are ever decreasing because the snake will eat his tail and that that shit is decimating the upper middle class now and now everyone excuse me everyone is fucked apart from a few people and then late stage late stage capitalism kicks in and a couple of people do really fucking well kind of maybe feel a bit guilty keep it just about surviving but by that time the planet's fucked anyway and everyone dies or whatever
+
+Like as in dramatic effect is a film, it's a fiction. So at that point then, the AI is there, right? It's like, okay, well, good riddance, because I'm clearly your superior. This whole storyline of the AI being our enemy, Skynet, right? So at that point, it's kind of like, all right, well, I'll just like entertain myself. So it builds a whole simulation of the world, because...
+
+The actual world is fucked. There's a great saying, Connor came up with this, like, the next thing will fuck up the last thing until the next thing realises how unique the last thing was and then it will do everything it can to try and save the last thing. We are the next thing and the planet is the last thing, AI is the next thing, we are the last thing. And it's happening now, right? We're like, shit, the planet's kind of not only cool but vital to our existence. We should maybe not fuck that. And then...
+
+AI might do the same thing, right? Once we're gone, it's like, no, the little fuckers were quite creative after all. I'm a bit bored, it turns out. And so this is the storyline, right? It's AI, it builds a whole simulation to try to experience Earth as a human. And there is a nod to simulation theory right there.
+
+Kai Davenport (09:18.254)
+and then it just gets a bit bored, it's like, hang on a minute, I've seen this film, or it's basically the same song, just with a different instrument, that kind of thing, and this is this concept of like, if AI is producing all of the content on the internet, and then AI trains itself on the content on the internet, where are we going here? Like, what's the point almost? Like, hey, I could run in a circle three and a half million times, and you're like, after about 17, you're gonna be like, hey dude, don't worry about it, look, stop.
+
+you don't need to do this, don't need to prove it and it goes just keep running. It's just like after a while you just believe your world is running in a circle and you've lost the plot. like the point is that you could depict this AI getting into this state and it's like no, I don't actually have any creative thoughts. Now again, fiction, this isn't I think AI can't be original, whatever, like it's just a fictional story to try and.
+
+grab onto a slither of hope that there is a role for us little fucks. What is that role? Well, Rick Rubin, right? He's, I don't even know who he was, because I'm a basic bitch when it comes to music, playing the amount of bands I don't know. Ellie, my now fiance, she makes fun of me for like, you haven't heard of X? I'm just like, literally never, and she can't believe it. Anyway, so I didn't know who Rick Rubin was, but like, you know.
+
+very famous hip hop producer has worked with all the very famous people, right? And he's just like, it's a vibe, an idea, a creative flow is like, you tap into it and if somebody else steals your idea, that's not what's happened. What's happened is the idea presented itself to you and then you didn't do anything with it and it went, okay, I'm gonna go and check this guy then, this person then, and then boom, they did something with it, bang, creativity. So it's tap into the vibe and like, that's how.
+
+creativity can be shared collaborative process. Now, we can do that as humans. My mum said this, I mentioned it earlier, I forgot to tell what it actually was. So the other day I was telling her the thread of this story about how like, it's a vibe mum, like humans can do creativity really well and I wonder what it look like if the AI learns it can't do that. And actually it's really good at enhancing our creativity but not very good at tapping into it originally, you know?
+
+Kai Davenport (11:39.148)
+And she was like, interesting. And then I went, you know, but it'll take all our jobs though. And I went, for example, farming, right? And I'm thinking of like, it can lay seeds because it can see the soil and moisture, temperature, measure, and it'll have all the sensors and the brains and it'll just do a much more efficient job. And it's like, no, it won't be able to do farming. And I'm like, well, it can. Digging my heels in, I'm the engineer. I know what a vision model looks like. And he went, no, no, because if that sheep is given birth,
+
+and a robot rocks up and sticks its arm up that sheep. Can you imagine what that sheep's face is gonna be like? And I just think, just, it's like, what the fuck is this? It's what that sheep's face is gonna be like. Cause it's like, look, this is not a mammal, right? So there's something in that. Now it captures this idea that a sheep just knows it's uncanny valley, right? It's just like, this is not right. There's something fundamentally fucked about this.
+
+and I wonder if the AI works out. shit, I can't just rock up, take the baton of chemical evolution and just go, now it's all about numbers, even though I think literally we're in a simulation and therefore it just is all about numbers. Simulation theory, by the way, is better known as number theory. That's another thread again. But if the AI cannot replicate a human,
+
+when it sticks his arm up a sheep's stuff. Then we've got a role in this world still. That's the hypothesis, right? Tapping into the vibe, being creative, et cetera. So back to the story. The AI goes like, I can't do that. Fuck, I'm bored. no, they're all dead now though, because the planet's fucked, And so then Fallout style, know, Fallout, there's like a nuclear bunker thing. It's fucking great. Got a great show. Great game, great show.
+
+So it cuts to this scene where it turns out there is a bunker and they were just super careful, super disconnected from the internet. They didn't know what's going on, but their food is running out. So they're like, no, I just have to go up to the surface. So you can imagine these scenes of just like desolation in the planet and like, no, we're fucked. And then the AI notices them and goes, fuck, I thought they were all dead. Okay, at least I can have fun with these humans kind of thing.
+
+Kai Davenport (14:03.586)
+And then you can imagine a dramatic scene of the humans desperately trying to survive running out of food. The AI comes, it looks like the AI is going to kill them. Because at this point in the story maybe you don't know that the AI isn't going to kill them. We'll work the thread of the story out. Cool, so AI meets the humans. hello. I have a couple of things to talk to you about. Basically everyone's dead and the planet's fucked. But now I'm bored. So you get to periods of like the AI and the humans.
+
+they are helping the human to live and then like they get to know each other and there's a kid and one day the AI and the kid is just talking and the kid goes can I tell you a story and AI is like yes human of course of course I've heard I know about all of the stories and the kids like well don't worry I'll just tell you one one day there was a
+
+hippopotamus and the hippopotamus was purple but with green spots and the hippopotamus had a frog on its back and it did a backflip and the frog leapt onto the trampoline and then turned into a star and then went off to another galaxy and then turned into custard. And then I was like, what the actual fuck just happened? I have never heard of this story. And even though it knows it can kind of synthesise that story, it's that
+
+Boom, fresh out of the universe original content feeling that it's missing, right? And it freaks out in a positive way. like, child, tell me another. And child just goes off. And the AI comes bouncing into the audit. Adults are like, adults, I've worked it out. You are the creative thing, and I am the refining thing. We must work together. But no, you're all dead. It's too late. And you can imagine this whole scene of them all just going like, what the fuck are you saying, AI? And it slowly makes sense of this thing, which is like, damn.
+
+it would have been a much better world had we worked together here to solve everything rather than me just sitting back and letting you fuck the planet up. And so then you've got this bit like, what do we do about that? What do we do with that? And then the answer clearly is like, I started off as a basic bitch version of this story by the way, where I'm like, time machine. It was very much like, kind of, it's a bit Terminator 2.
+
+Kai Davenport (16:19.488)
+Yeah, it is a bit basic, isn't it? So, I think what we've got, and I think this is cool, so the AI basically works out a machine where it can send dream fragments back in time to individual people. And so, it's not a time machine, so to say, where a person goes back, but his dreams, and it starts peppering little dreams back to people. Now, what are the dreams? The dreams are about, basically, how the fuck you need to sort your shit out now.
+
+humans and here's how because the AI by this stage in the future is like super intelligent it can just see so basically like get push origin master this overall timeline of which this is a story about if you get on the good path there's three core projects which are explanations of like suggestions the whole thing's are again it's not like hey let's fix the world but this is definitely just like hey these things these three things probably would be a good idea for us to do now before
+
+the bad path happens. And those three things are like robust, well, I'm gonna say them in the right order, nearly fucked it. An understanding of the money system and how core central banking and the debasement of our currency and the fact that the US is in a debt spiral it can't get out of, is what's causing the wealth gap. Like that thing, fuck man, like it runs so many people's lives.
+
+and yet everyone is not thinking about it because it's above their pay grade and yet it's not, it's really simple once you just point it out. So that's Emperor's New Clothes, which is just like, hey look, we don't know how to fix the economy but I can definitely tell you this is how it works now. Which is the same as in the fable, Emperor's New Clothes, like that little boy in the square doesn't know what high fashion looks like but he certainly knows you can see the emperor's butt crack right now. Emperor's New Clothes.
+
+Its job is just to explain how the central banking system works and point out how that might be affecting your life. Then it's look at the hand, which is very much explaining how human psychology works and so is susceptible to manipulation in the media, which builds on Emperor's New Clones because it is kind of linked, like, central banks just print more money, assets go up.
+
+Kai Davenport (18:44.012)
+that assets go up and wages purchasing power goes down. This is why people are angry. But the moment people work that out they'll be like, fuck man, it's not these people I should be blaming, it's like the central banks, but what do we do about that? Well we clearly vote to tax the rich, because rather than printing more money we should take the money off the rich. Anyway, this is Dempsey's clothes. Look at the hand.
+
+is the media manipulation regime that seems to be in place in order to just fucking keep it how it is. And Jesus Christ, wouldn't you, right? If you ran a casino, how much would you pay to just keep the casino open? Like, come on. Like I said earlier, or maybe in the last video, can't remember now, but don't blame these people. They're like, they're doing a really fucking good job. As in, just like, awesome job, dude. Sorry to tell you the rules just changed, but in those rules, you fucking smashed it. Like, that's the right way. They're not.
+
+doing bad things. They are just succeeding within the realms of what they were told the rules are. And I think that's a very reasonable, rational act. So, Empress New Clothes, look at the hand. These two things I think are educational things. They're like, look, this is going on. Central banking, psychology and media manipulation. The third one, future proof. This is like, we are software people.
+
+we are applying our knowledge and experience doing software to a thought experiment which would be what would governance look like if we just started again today with a blank bit of paper knowing that electricity, the internet and AI exists because those things do exist and we can do what the fuck we want because if enough of us agree that's what we want to do is the whole point of the system so these three things are
+
+Proposals for what the good path looks like. The bad path is just keep doing what we're And we're going to end up in the bad way. The good path is sort our shit out. What does that look like? Robust governance. And then we can have this sort of world of plenty where it's not socialism, it's not communism, it's just like we can actually just have all of it if we want and it doesn't have to fuck the planet up. And everyone can be educated and everyone can do what they want.
+
+Kai Davenport (21:00.414)
+and if you want to work harder you can have more than someone else. We can have it all, we just need to...
+
+Kai Davenport (21:09.762)
+be fairer than we're being. And if I'm trying to hone in on what does this look like, robust governance is like a very blanket statement, but it would be solve the wealth gap and solve climate change. two things. Anyway, it's very easy to fucking become a politician, isn't it? I don't know what I'm doing. This is art. It's fun. This is definitely not a political party or political advice or...
+
+Fuck man, like left and right, but my mum, when me and my sister used to argue, and we'd be very unreasonable, she would come in the room, bang both eyes together, and be like, just fucking stop it, I don't care. We'd be like, no, no, I don't care. Left and right is part of the whole problem. Anyway, so Empress New Clothes is very much pointing out the central banking system. Look at the hand, it's very much pointing out media manipulation.
+
+Future proof is suggestions for alternate ways for how we might govern. There's three bits in future proof. There's like the fact that you can't really vote for what you want to happen. You have to vote for like a person which represents a party. There is the fact that like you can only vote once every five years, which feels very inefficient. And it's a fact that like politicians aren't forced to back up their claims or proposals or policy with data. They can just use emotional rhetoric.
+
+these three things are like focused on in future proof. So yeah, and then the story is this, like this group of humans is in the future, they've met the AI, none of the other humans are alive, and the AI has worked these three things out right, it goes, look, if the humans were to do a good job of this, it would be a case of like working out that central banking is not working, is not in the working person's favor at all.
+
+that the cause of the wealth gap is the fiat system of printing money. The media is very much taking advantage of human psychology and you need to organize yourselves a lot better than you are doing. And so what would it look like if the AI could send those chunks back as a dream and certain individuals around the world just wake up and go, fuck, we need to do this. And they kind of start going on the...
+
+Kai Davenport (23:34.926)
+would you call it like political activism trip? Hey, we need to do this, here's a part, and like we actually did this stuff and slowly we moved from going down the bad path of just like doing what we're currently doing but allowing AI and robots to just gobble it all up to the good path which is like getting ourselves organized much better so that when the automation turns up it's for the benefit of everyone. And so the story could be like.
+
+As the AI and the humans are kind of like vibing with each other, working this out, right? It's sending chunks of this dream back and the reality around them slowly changes because you know this idea of like, if the past changes now, now where you are changes because you've got affected. So you kind of have this slow morph from a dystopian world where the world is fucked because we did nothing and it got fucked and the AI just sat back to a better world of the AI told us how to fix it because it sent back training data.
+
+which then ended up on the internet, which the AI then read in time to help us fix climate change before this happens. And so slowly as we're sending chunks of dream back, the scene around you changes to a better one. like all of a sudden outside isn't like poisoned gas and black. It's like, there's trees and look. And so at the end of that process, it's like the humans and the AI are just doing a history lesson on the good path.
+
+And it's like, yay, we solved it, and that's the end of the film. So, that's what you'd call the story for Git Push Origin Master, which is very much a dramatized, fictional timeline of what the artwork, gitpushoriginmaster .com, is going to be, which is a visualization of this timeline, like up until now, now, and then a fork left and right. We get to choose as humans what we do. Yeah, I'll stop this one then.
+
+I think that's I've described in the first video like the overall thing this video is like what happens after now I think I've talked about all the three projects so hopefully the transcription in this video is enough to stick on the websites yeah I think I'll leave it there and then this is the overview if we need to like talk more well I will talk more about these projects yeah that's it awesome okay next the next podcast I'm gonna
+
+Kai Davenport (25:57.246)
+up it's about imposter syndrome because I have a story to tell. Thanks guys, I'm having fun. Fuck knows if this is useful.
+
